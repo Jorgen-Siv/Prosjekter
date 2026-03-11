@@ -10,6 +10,6 @@ Manglende prosjekter:
           - Simulerte distribuerte veikryss ved hjelp av mikrokontrollere
           - Arbeidet med synkronisering, sanntidsbegrensninger og kommunikasjon mellom prosesser  
 - MANU2451 - Advanced Mechatronics System Design: Simulering av to robotarmer som samarbeider (MATLAB/Simulink)
-          -- Bidro til implementering av motorstyring for en robotarmsimulering
-          -- Fikk erfaring med koordinert bevegelseslogikk, trajektorieplanlegging og team-basert utvikling
+          - Bidro til implementering av motorstyring for en robotarmsimulering
+          - Fikk erfaring med koordinert bevegelseslogikk, trajektorieplanlegging og team-basert utvikling
 
